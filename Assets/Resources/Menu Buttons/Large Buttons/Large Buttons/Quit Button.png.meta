@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 47dbbc5f24c9fbd43ab68a80b26fd008
+guid: cb62094355b1c4d4eaf1938310e7d5ce
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4992074656434734476
-    second: backgroundMoonExtend_0
+      213: 62126053121805971
+    second: Quit Button_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: backgroundMoonExtend_0
+      name: Quit Button_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 3062
-        height: 416
+        width: 600
+        height: 200
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c85c50d6379674540800000000000000
-      internalID: 4992074656434734476
+      spriteID: 39e4f9fe057bcd000800000000000000
+      internalID: 62126053121805971
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      backgroundMoonExtend_0: 4992074656434734476
+      Quit Button_0: 62126053121805971
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
